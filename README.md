@@ -7,12 +7,18 @@
 <body>
 <h1>This friday CLAIMED <br>
 we are going to the palisades to film the geological history of NYC
-<br>
+<br><p>
+The Palisades are among the most dramatic geologic features in the vicinity of New York City, forming a canyon of the Hudson north of George Washington Bridge, as well as providing a vista of the skyline.
+
+Palisade is derived from the same root as word pale, ultimately from the Latin word palus, meaning stake. The Lenape called the cliffs "rocks that look like rows of trees", a phrase that became "Weehawken", the name of a town in New Jersey which sits at the top of the cliffs across from Manhattan.</p>
 Flying Robotic Journalism:</h1>
 <br>
 <p>RoadMap for Amelia’s Project about the Palisades:</b>
 
-<p>Logistics of getting to the palisades:</p>
+<p>Logistics of <a href="http://www.njpalisades.org/parkway.html">getting to the palisades</a>:</p>
+There are a few things we could do I recommend we decide between these two options:
+<ul>
+	<li>
 
 <p>Logistics of getting to the location to shoot:</p>
 <br>
@@ -42,6 +48,10 @@ Flying Robotic Journalism:</h1>
 <p>Interactive Possibilities :</p>
 <ul><li>
 using the photos to create a 3D map of the pals aides that people can zoom into the geological formation below the water to see the enormous rock foundation of manhattan which is only this tiny little lump atop an enormous and ancient geological structure.  Web based or browser based (OR just an animation that goes into the final video).</li></ul>
+
+<h1>Links:</h1>
+<ul>
+	<li> <a href="http://www.wmf.org/project/cloisters-and-palisades">World Monument Fund</a>
 </body>
 </html>
 
