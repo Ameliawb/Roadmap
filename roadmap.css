@@ -1,0 +1,21 @@
+body {
+    color: #111;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    padding-bottom: 38px;
+    position: relative;
+}
+
+
+h1 {
+    color: #111;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 28px;
+    margin: 0 0 0;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+}
